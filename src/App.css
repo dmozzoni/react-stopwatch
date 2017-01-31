@@ -22,3 +22,9 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.stopWatchBox {
+  margin-top: 30px;
+  text-align: center;
+  display: block;
+}
